@@ -1,0 +1,3 @@
+D:/SourceCodes/ultrasonic/cmake-build-debug/CMakeFiles/ultrasonic.elf.dir
+D:/SourceCodes/ultrasonic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SourceCodes/ultrasonic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
