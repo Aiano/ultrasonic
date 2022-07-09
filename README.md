@@ -16,7 +16,7 @@ A ultrasonic sensor library for STM32 based on HAL
 
 3. 打开STM32CubeMX，
 
-   1. [配置](.\Ultrasonic超声波模块.md)
+   1. [配置](Ultrasonic超声波模块.md)
    2. 点击Generate Code重新生成代码
 
 4. 在`main.c`中引用头文件
